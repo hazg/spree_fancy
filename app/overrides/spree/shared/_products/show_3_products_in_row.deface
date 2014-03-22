@@ -1,2 +1,0 @@
-set_attributes '[data-hook="products_list_item"]'
-attributes :class => 'columns tree <%= cycle("alpha", "secondary", "omega", :name => "classes") %>'
